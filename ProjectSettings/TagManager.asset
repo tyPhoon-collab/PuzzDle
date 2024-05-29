@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Sword
+  - Ground
+  - Hit
+  - Coin
+  - Crystal
+  - TreasureBox
+  - DropItemParent
+  - PopUpParent
+  - NoResourcePopUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Drop Item
+  - Enemy
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effect
+    uniqueID: 1633518281
+    locked: 0
+  - name: UI
+    uniqueID: 1644355581
+    locked: 0
+  - name: Puzzle
+    uniqueID: 1030209815
+    locked: 0
+  - name: Combo
+    uniqueID: 1362850513
+    locked: 0
+  - name: Mask
+    uniqueID: 671668613
+    locked: 0
+  - name: PopUp
+    uniqueID: 1425436381
+    locked: 0

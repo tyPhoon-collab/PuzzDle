@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: b10e6450be754514ebd2dc6c3f20ce46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8870909226489827901
+    second: PurpleDragon_0
+  - first:
+      213: 2092763895835889013
+    second: PurpleDragon_1
+  - first:
+      213: -7489705715336097901
+    second: PurpleDragon_2
+  - first:
+      213: 9182041672668481851
+    second: PurpleDragon_3
+  - first:
+      213: -4676031690999341555
+    second: PurpleDragon_4
+  - first:
+      213: 4253929169171847635
+    second: PurpleDragon_5
+  - first:
+      213: 582139575598846580
+    second: PurpleDragon_6
+  - first:
+      213: -6133105447400199877
+    second: PurpleDragon_7
+  - first:
+      213: -1016480953359612641
+    second: PurpleDragon_8
+  - first:
+      213: -8086831067794081803
+    second: PurpleDragon_9
+  - first:
+      213: -7708063201487554190
+    second: PurpleDragon_10
+  - first:
+      213: -9178116539081313539
+    second: PurpleDragon_11
+  - first:
+      213: 1800685181727659403
+    second: PurpleDragon_12
+  - first:
+      213: -6444753817500042281
+    second: PurpleDragon_13
+  - first:
+      213: -6679288077171903365
+    second: PurpleDragon_14
+  - first:
+      213: -6046433095908890919
+    second: PurpleDragon_15
+  - first:
+      213: 7728298827853141853
+    second: PurpleDragon_16
+  - first:
+      213: -8071995541159776512
+    second: PurpleDragon_17
+  - first:
+      213: 2476952415085630946
+    second: PurpleDragon_18
+  - first:
+      213: 3255485658376425025
+    second: PurpleDragon_19
+  - first:
+      213: -6520672034481073
+    second: PurpleDragon_20
+  - first:
+      213: 8399694416464818034
+    second: PurpleDragon_21
+  - first:
+      213: -4032297998631015689
+    second: PurpleDragon_22
+  - first:
+      213: -4754067452390647810
+    second: PurpleDragon_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleDragon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cda6500f0334e480800000000000000
+      internalID: -8870909226489827901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8f02ecadfa0d10800000000000000
+      internalID: 2092763895835889013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fcd2585583f0890800000000000000
+      internalID: -7489705715336097901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390d34b04a2d6f70800000000000000
+      internalID: 9182041672668481851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed383a3f56b1fb0800000000000000
+      internalID: -4676031690999341555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 91
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d919248a0ef80b30800000000000000
+      internalID: 4253929169171847635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47214451cdc241800800000000000000
+      internalID: 582139575598846580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a2b51715d2eaa0800000000000000
+      internalID: -6133105447400199877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cc0e55fbb4e1f0800000000000000
+      internalID: -1016480953359612641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f77a8d5dfdc5cf80800000000000000
+      internalID: -8086831067794081803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279f2197b55770590800000000000000
+      internalID: -7708063201487554190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 61
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2bbeca2a7c0a080800000000000000
+      internalID: -9178116539081313539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85df21e1a15df810800000000000000
+      internalID: 1800685181727659403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db311b7c82af86a0800000000000000
+      internalID: -6444753817500042281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74baa7d1e66e43a0800000000000000
+      internalID: -6679288077171903365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66f287221c61ca0800000000000000
+      internalID: -6046433095908890919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57114076de604b60800000000000000
+      internalID: 7728298827853141853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 31
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f62a492d28aff80800000000000000
+      internalID: -8071995541159776512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e599ba1917ef5220800000000000000
+      internalID: 2476952415085630946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec7ee35fecd2d20800000000000000
+      internalID: 3255485658376425025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c10bbbb75d8eff0800000000000000
+      internalID: -6520672034481073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa73b7195b19470800000000000000
+      internalID: 8399694416464818034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa641395566a08c0800000000000000
+      internalID: -4032297998631015689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleDragon_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1
+        width: 38
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7520617d8260eb0800000000000000
+      internalID: -4754067452390647810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PurpleDragon_6: 582139575598846580
+      PurpleDragon_18: 2476952415085630946
+      PurpleDragon_16: 7728298827853141853
+      PurpleDragon_1: 2092763895835889013
+      PurpleDragon_3: 9182041672668481851
+      PurpleDragon_13: -6444753817500042281
+      PurpleDragon_8: -1016480953359612641
+      PurpleDragon_12: 1800685181727659403
+      PurpleDragon_15: -6046433095908890919
+      PurpleDragon_21: 8399694416464818034
+      PurpleDragon_14: -6679288077171903365
+      PurpleDragon_4: -4676031690999341555
+      PurpleDragon_0: -8870909226489827901
+      PurpleDragon_17: -8071995541159776512
+      PurpleDragon_5: 4253929169171847635
+      PurpleDragon_9: -8086831067794081803
+      PurpleDragon_11: -9178116539081313539
+      PurpleDragon_10: -7708063201487554190
+      PurpleDragon_19: 3255485658376425025
+      PurpleDragon_20: -6520672034481073
+      PurpleDragon_23: -4754067452390647810
+      PurpleDragon_2: -7489705715336097901
+      PurpleDragon_7: -6133105447400199877
+      PurpleDragon_22: -4032297998631015689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
